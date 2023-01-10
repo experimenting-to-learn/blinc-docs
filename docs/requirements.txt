@@ -1,0 +1,4 @@
+furo==2021.11.16
+myst-parser==0.18.1
+sphinx-book-theme==0.3.3
+sphinxcontrib-redoc==1.6.0
